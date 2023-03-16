@@ -1,4 +1,8 @@
-### Hi! I'm Sebastian 👋
+ <h1 align="center">Hi! I'm Sebastian 👋</h1>
 
-A Java Full-Stack Developer
-![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})
+##### I live in Tampa, I love jazz, traveling, and learning new technologies. I have an active security clearance and I'm currently a reservist in the Air Force 🇺🇸
+
+
+
+
+<a href="https://www.linkedin.com/in/sebi-t/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
